@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "note_title": "Cell Biology",
+    "front": "What is the powerhouse of the cell?",
+    "back": "Mitochondria",
+    "status": "known"
+  },
+  {
+    "id": 2,
+    "note_title": "Photosynthesis",
+    "front": "What key term completes this idea from 'Photosynthesis'?\nPhotosynthesis is the process plants use to convert sunlight into energy.",
+    "back": "Photosynthesis",
+    "status": "known"
+  },
+  {
+    "id": 3,
+    "note_title": "Photosynthesis",
+    "front": "What key term completes this idea from 'Photosynthesis'?\nThis process mainly takes place inside the chloroplasts of plant cells.",
+    "back": "chloroplasts",
+    "status": "unknown"
+  },
+  {
+    "id": 4,
+    "note_title": "Newton's Laws",
+    "front": "What key term completes this idea from 'Newton's Laws'?\nForce equals mass times acceleration.",
+    "back": "acceleration",
+    "status": "unknown"
+  },
+  {
+    "id": 5,
+    "note_title": "Newton's Laws",
+    "front": "According to the study notes, what does Force equal?",
+    "back": "Mass times acceleration",
+    "status": "unknown"
+  },
+  {
+    "id": 6,
+    "note_title": "Newton's Laws",
+    "front": "What is the mathematical formula represented by 'Force equals mass times acceleration'?",
+    "back": "F = ma",
+    "status": "unknown"
+  },
+  {
+    "id": 7,
+    "note_title": "Newton's Laws",
+    "front": "In the formula for Force (F = ma), what does 'm' stand for?",
+    "back": "Mass",
+    "status": "unknown"
+  },
+  {
+    "id": 8,
+    "note_title": "Newton's Laws",
+    "front": "In the formula for Force (F = ma), what does 'a' stand for?",
+    "back": "Acceleration",
+    "status": "unknown"
+  },
+  {
+    "id": 9,
+    "note_title": "Newton's Laws",
+    "front": "What physical quantity is calculated by multiplying mass by acceleration?",
+    "back": "Force",
+    "status": "unknown"
+  },
+  {
+    "id": 10,
+    "note_title": "Photosynthesis",
+    "front": "According to the study notes, what do plants need to perform photosynthesis?",
+    "back": "Sunlight, water, and carbon dioxide.",
+    "status": "unknown"
+  },
+  {
+    "id": 11,
+    "note_title": "Photosynthesis",
+    "front": "What vital gas is given off as a byproduct of photosynthesis?",
+    "back": "Oxygen.",
+    "status": "unknown"
+  },
+  {
+    "id": 12,
+    "note_title": "Photosynthesis",
+    "front": "How does the oxygen produced by plants relate to human needs?",
+    "back": "Humans need the oxygen produced by plants to breathe and survive.",
+    "status": "unknown"
+  },
+  {
+    "id": 13,
+    "note_title": "Photosynthesis",
+    "front": "What essential gas released during photosynthesis meets a basic human need?",
+    "back": "Oxygen.",
+    "status": "unknown"
+  },
+  {
+    "id": 14,
+    "note_title": "Photosynthesis",
+    "front": "What is the primary process that utilizes what plants need and produces the oxygen that humans need?",
+    "back": "Photosynthesis.",
+    "status": "unknown"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Photosynthesis",
+    "content": "Plants convert light into energy.",
+    "subject": "Biology"
+  },
+  {
+    "id": 2,
+    "title": "Newton's Laws",
+    "content": "Force equals mass times acceleration.",
+    "subject": "Physics"
+  },
+  {
+    "id": 3,
+    "title": "Photosynthesis",
+    "content": "Photosynthesis is the process plants use to convert sunlight into energy. This process mainly takes place inside the chloroplasts of plant cells.",
+    "subject": "Biology"
+  },
+  {
+    "id": 4,
+    "title": "Photosynthesis",
+    "content": "plants need, gives oxygen, human needs",
+    "subject": "biology"
+  }
+]

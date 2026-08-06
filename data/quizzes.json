@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "note_title": "Photosynthesis",
+    "questions": [
+      {
+        "question": "Plants convert _____ into energy.",
+        "answer": "light"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "note_title": "Photosynthesis",
+    "questions": [
+      {
+        "question": "_____ is the process plants use to convert sunlight into energy.",
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "This process mainly takes place inside the _____ of plant cells.",
+        "answer": "chloroplasts"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "note_title": "Photosynthesis",
+    "questions": [
+      {
+        "question": "_____ is the process plants use to convert sunlight into energy.",
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "This process mainly takes place inside the _____ of plant cells.",
+        "answer": "chloroplasts"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "note_title": "Photosynthesis",
+    "questions": [
+      {
+        "question": "Based on the requirements of photosynthesis, what do plants need to make their own food?",
+        "options": [
+          "Carbon dioxide, water, and sunlight",
+          "Oxygen and nitrogen",
+          "Glucose and soil only",
+          "Argon gas and heat"
+        ],
+        "answer": "Carbon dioxide, water, and sunlight"
+      },
+      {
+        "question": "What essential gas does photosynthesis give off as a product?",
+        "options": [
+          "Carbon dioxide",
+          "Nitrogen",
+          "Oxygen",
+          "Hydrogen"
+        ],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "How does the oxygen produced during photosynthesis relate to human needs?",
+        "options": [
+          "Humans need it to breathe and survive.",
+          "Humans use it to block out sunlight.",
+          "Humans need it to produce carbon dioxide.",
+          "Humans use it to convert water into soil."
+        ],
+        "answer": "Humans need it to breathe and survive."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "note_title": "Photosynthesis",
+    "questions": [
+      {
+        "question": "What is the process plants use to convert sunlight into energy called?",
+        "options": [
+          "Respiration",
+          "Photosynthesis",
+          "Fermentation",
+          "Transpiration"
+        ],
+        "answer": "Photosynthesis"
+      },
+      {
+        "question": "Where inside plant cells does photosynthesis mainly take place?",
+        "options": [
+          "Nucleus",
+          "Chloroplasts",
+          "Mitochondria",
+          "Cell wall"
+        ],
+        "answer": "Chloroplasts"
+      },
+      {
+        "question": "During photosynthesis, what do plants convert sunlight into?",
+        "options": [
+          "Energy",
+          "Water",
+          "Soil",
+          "Carbon dioxide"
+        ],
+        "answer": "Energy"
+      }
+    ]
+  }
+]
