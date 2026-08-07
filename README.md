@@ -41,7 +41,6 @@ Example:
 
 ```text
 GOOGLE_API_KEY=YOUR_API_KEY
-GEMINI_MODEL=gemini-3.5-flash
 ```
 
 ---
@@ -71,8 +70,17 @@ AI_Study_Assistant/
 ├── modules/
 ├── tests/
 ├── data/
-└── assets/
+├── docs/
+├── assets/
+└── config/
 ```
+
+---
+
+## Documentation
+
+For a detailed technical breakdown of every module, class, and method, see
+[`docs/AI_Study_Assistant_Documentation.md`](docs/AI_Study_Assistant_Documentation.md).
 
 ---
 

@@ -47,9 +47,7 @@ class GeminiClient:
                 print(f"Gemini server busy (attempt {attempt}/{self.max_retries}). Retrying...")
                 time.sleep(self.retry_delay_seconds)
 
-        # If every retry failed, raise a clear error instead of a raw traceback
         raise RuntimeError(
             f"Gemini API is currently unavailable after {self.max_retries} attempts. "
             f"Please try again in a few minutes. Original error: {last_error}"
         )
-    #test pull
